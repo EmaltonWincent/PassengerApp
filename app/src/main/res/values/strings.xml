@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Passenger Display</string>
+    <string name="title_activity_display">Passenger Display</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
